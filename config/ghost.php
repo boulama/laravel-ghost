@@ -82,4 +82,7 @@ return [
          */
         'ttl' => 60 * 60,
     ],
+
+    'cache_enabled' => true,
+    'cache_duration' => 3600, // Duration in seconds
 ];
